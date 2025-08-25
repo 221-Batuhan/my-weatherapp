@@ -16,7 +16,7 @@ export default function WeatherCard({ weather, onToggleFavorite, isFavorite }) {
       'Fog': '🌫️',
       'Sand': '🌫️',
       'Ash': '🌫️',
-      'Squall': '💨',
+      'Squall': '🌬️',
       'Tornado': '🌪️',
       'Sunny': '☀️'
     }
